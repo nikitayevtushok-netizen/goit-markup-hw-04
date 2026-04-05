@@ -247,6 +247,7 @@ address {
 
 .features-icon {
     display: block;
+    fill: #2e2f42;
 }
 
 .features-list {
